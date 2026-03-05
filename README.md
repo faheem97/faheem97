@@ -138,18 +138,21 @@
 
 ## ❯ whoami
 
-```bash
-$ cat profile.json
-{
-  "name"        : "Faheem Khan Mohammed",
-  "role"        : "Aspiring Cybersecurity Professional",
-  "location"    : "Columbus, OH  |  Open to Relocate",
-  "education"   : "M.S. Cybersecurity — Franklin University (Dec 2025)",
-  "background"  : "5+ years Software / Game Engineering → Cyber Defense",
-  "focus"       : ["Security Operations", "Incident Response", "Threat Detection"],
-  "status"      : "Actively seeking Security Analyst / SOC roles"
-}
-```
+<table><tr><td>
+
+<sub><b>$ cat profile.json</b></sub>
+
+| | |
+|:--|:--|
+| `"name"` | `"Faheem Khan Mohammed"` |
+| `"role"` | `"Aspiring Cybersecurity Professional"` |
+| `"location"` | `"Columbus, OH  \|  Open to Relocate"` |
+| `"education"` | `"M.S. Cybersecurity — Franklin University (Dec 2025)"` |
+| `"background"` | `"5+ years Software / Game Engineering → Cyber Defense"` |
+| `"focus"` | `["Security Operations", "Incident Response", "Threat Detection"]` |
+| `"status"` | `"Actively seeking Security Analyst / SOC roles"` |
+
+</td></tr></table>
 
 > 🛡️ **Cyber defender by study, engineer by instinct.** Five years building real-time multiplayer systems at scale gave me a developer's lens into network protocols, CI/CD pipelines, and attack surfaces — now applied to securing them. I think in systems, hunt in logs, and communicate risk clearly.
 
