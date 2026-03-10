@@ -443,13 +443,13 @@ India
   <rect width="700" height="80" rx="8" fill="url(#ctaBg)" stroke="#7c3aed" stroke-width="1" opacity="0.9"/>
   <rect width="700" height="80" rx="8" fill="none" stroke="#00ff88" stroke-width="0.5" opacity="0.4"/>
   <text x="350" y="30" font-family="'Courier New', monospace" font-size="12" text-anchor="middle" fill="#64748b" letter-spacing="3">OPEN TO OPPORTUNITIES</text>
-  <text x="350" y="56" font-family="'Courier New', monospace" font-size="14" text-anchor="middle" fill="#e2e8f0" letter-spacing="1">📡  mofaheemkhan614@gmail.com  ·  linkedin.com/in/faheemkhan09</text>
+  <text x="350" y="56" font-family="'Courier New', monospace" font-size="14" text-anchor="middle" fill="#e2e8f0" letter-spacing="1">📡  mofaheemk9@gmail.com  ·  linkedin.com/in/faheemkhan09</text>
 </svg>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemkhan09)
-[![Email](https://img.shields.io/badge/Send_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofaheemkhan614@gmail.com)
+[![Email](https://img.shields.io/badge/Send_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofaheemk9@gmail.com)
 
 <br/>
 
