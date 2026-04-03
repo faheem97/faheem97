@@ -80,7 +80,7 @@
   <!-- Animated typing cursor bar -->
   <text x="450" y="132" font-family="'Courier New', monospace" font-size="14"
         text-anchor="middle" fill="#00ff88" letter-spacing="2" opacity="0.9">
-    Aspiring Cybersecurity Professional
+    Cybersecurity Engineer
   </text>
 
   <!-- Decorative underline -->
@@ -100,15 +100,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Faheem+Khan+Mohammed;Aspiring+Cybersecurity+Professional;Security+Analyst+%7C+Threat+Hunter;Former+Unity+%2F+Game+Dev+%E2%86%92+Cyber+Defender)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Faheem+Khan+Mohammed;Cybersecurity+Engineer;SOC+%7C+Threat+Detection+%7C+Incident+Response;Splunk+%7C+CrowdStrike+%7C+AWS+Security)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social & Status Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faheemkhan09-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemkhan09)
 [![Email](https://img.shields.io/badge/Email-mofaheemk9%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofaheemk9@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-(614)_881--8303-00ff88?style=for-the-badge&logo=phone&logoColor=black)](#)
 [![Location](https://img.shields.io/badge/Location-Columbus%2C_OH-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Status-Open_to_Relocate-00ff88?style=for-the-badge&logo=statuspage&logoColor=black)](#)
 
 </div>
 
@@ -145,16 +145,17 @@
 | | |
 |:--|:--|
 | `"name"` | `"Faheem Khan Mohammed"` |
-| `"role"` | `"Aspiring Cybersecurity Professional"` |
+| `"role"` | `"Cybersecurity Engineer"` |
 | `"location"` | `"Columbus, OH  \|  Open to Relocate"` |
 | `"education"` | `"M.S. Cybersecurity — Franklin University (Dec 2025)"` |
-| `"background"` | `"5+ years Software / Game Engineering → Cyber Defense"` |
-| `"focus"` | `["Security Operations", "Incident Response", "Threat Detection"]` |
-| `"status"` | `"Actively seeking Security Analyst / SOC roles"` |
+| `"experience"` | `"6+ years across SOC Operations, Threat Detection & Security Engineering"` |
+| `"current"` | `"Security Engineer @ Cisco (Aug 2024 – Present)"` |
+| `"focus"` | `["SIEM", "EDR", "Cloud Security", "Incident Response", "Threat Hunting"]` |
+| `"stack"` | `["Splunk", "QRadar", "CrowdStrike", "AWS GuardDuty", "Nessus", "Python"]` |
 
 </td></tr></table>
 
-> 🛡️ **Cyber defender by study, engineer by instinct.** Five years building real-time multiplayer systems at scale gave me a developer's lens into network protocols, CI/CD pipelines, and attack surfaces — now applied to securing them. I think in systems, hunt in logs, and communicate risk clearly.
+> 🛡️ **Security engineer who thinks like an attacker.** Six years spanning SOC operations and security engineering — from building real-time distributed systems at scale, to detecting and responding to malware, lateral movement, and insider threats at enterprise level. Currently engineering detection coverage, automating triage workflows, and hardening cloud environments at Cisco. I reduce MTTD/MTTR, tune signal over noise, and communicate risk clearly across every layer of the stack.
 
 <br/>
 
@@ -180,36 +181,49 @@
 
 ## 🛠️ Skills
 
-### 🔵 Security Operations
+### 🔵 Security Operations & Monitoring
 
 <div align="center">
 
-![SIEM](https://img.shields.io/badge/SIEM-Tools-00b4d8?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-ff6b35?style=for-the-badge&logo=splunk&logoColor=white)
+![QRadar](https://img.shields.io/badge/QRadar-SIEM-052fad?style=for-the-badge&logo=ibm&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-EDR-ff0000?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Carbon Black](https://img.shields.io/badge/Carbon_Black-EDR-7c3aed?style=for-the-badge&logo=vmware&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Vuln_Mgmt-00b4d8?style=for-the-badge&logo=tenable&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-Vuln_Mgmt-ef4444?style=for-the-badge&logo=qualys&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Monitoring-00ff88?style=for-the-badge&logo=wireshark&logoColor=black)
-![EDR](https://img.shields.io/badge/EDR-Endpoint_Defense-7c3aed?style=for-the-badge&logo=defender&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-IR-ff6b6b?style=for-the-badge&logo=pagerduty&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-Scanning-f59e0b?style=for-the-badge&logo=nessus&logoColor=black)
-![IAM](https://img.shields.io/badge/IAM-Identity_&_Access-0ea5e9?style=for-the-badge&logo=auth0&logoColor=white)
-![DLP](https://img.shields.io/badge/DLP-Data_Loss_Prevention-00ff88?style=for-the-badge&logo=shield&logoColor=black)
-![Risk Management](https://img.shields.io/badge/Risk_Management-GRC-7c3aed?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-CLI_Expert-fbbf24?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-Security-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-TI_Feeds-f59e0b?style=for-the-badge&logo=virustotal&logoColor=black)
+![SOAR](https://img.shields.io/badge/SOAR-Automation-7c3aed?style=for-the-badge&logo=zapier&logoColor=white)
+![UEBA](https://img.shields.io/badge/UEBA-Behavioral_Analytics-00b4d8?style=for-the-badge&logo=elastic&logoColor=white)
 
 </div>
 
-### 🟢 Software Engineering
+### ☁️ Cloud & Platform Security
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Scripting-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Unity_SDK-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-Cloud_Security-ff9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-KMS_CloudTrail-ff9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Azure Security](https://img.shields.io/badge/Azure-Security-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP Security](https://img.shields.io/badge/GCP-Security-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CASB](https://img.shields.io/badge/CASB-Cloud_Access-00ff88?style=for-the-badge&logo=cloudflare&logoColor=black)
+
+</div>
+
+### 🟢 Programming, Scripting & Compliance
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Automation-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391fe?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Shell-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Log_Analysis-f97316?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Node.js-Socket.io-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-d33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-Compliance-00ff88?style=for-the-badge&logo=checkmarx&logoColor=black)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-Framework-7c3aed?style=for-the-badge&logo=nist&logoColor=white)
+![SOC2](https://img.shields.io/badge/SOC2-Compliance-0ea5e9?style=for-the-badge&logo=shield&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-f05032?style=for-the-badge&logo=git&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocols-00b4d8?style=for-the-badge&logo=cisco&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-7c3aed?style=for-the-badge&logo=socket.io&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Mobile_Dev-3ddc84?style=for-the-badge&logo=android&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-Project_Mgmt-0052cc?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -234,7 +248,6 @@
 - Identified and reported active **phishing threats** across org
 - Assessed security training gaps by department
 - Designed **targeted training programs** to harden high-risk teams
-- Improved overall organizational security posture
 
 `Security Awareness` `Phishing Analysis` `Risk Communication`
 
@@ -257,28 +270,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Network Protocol Security Analysis
-> **Personal Project — Ongoing**
+### 🤖 Security Automation — IOC Enrichment Pipeline
+> **Personal Project — Python / PowerShell**
 
-- Analyzed custom **WebSocket & TCP protocols** for attack surface
-- Identified packet overhead vulnerabilities in mobile game networking
-- Applied threat modeling to real-time multiplayer architectures
-- Documented findings using structured security report format
+- Built Python scripts to automate **log parsing** and IOC enrichment
+- Integrated threat intelligence feeds for automated alert validation
+- Reduced manual analyst workload on repetitive triage tasks
+- Designed modular structure for easy SIEM/SOAR integration
 
-`Threat Modeling` `Protocol Analysis` `Network Security`
+`Python` `PowerShell` `Threat Intelligence` `SOAR` `Automation`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 SIEM Log Analysis Lab
-> **Google Cybersecurity Certificate Capstone**
+### 📊 SIEM Detection Rule Tuning Lab
+> **Splunk / QRadar Hands-on**
 
-- Built **SQL queries** for structured log analysis and anomaly detection
-- Practiced alert triage workflows in SIEM environments
-- Simulated incident response scenarios with documented runbooks
-- Used **Python scripting** to automate log parsing tasks
+- Built and optimized **correlation searches** and alert thresholds
+- Reduced false positive rates through iterative rule refinement
+- Created dashboards for user behavior, endpoint anomalies, and network activity
+- Documented detection logic and runbooks for SOC team use
 
-`SIEM` `SQL` `Python` `Incident Response`
+`Splunk` `QRadar` `Alert Tuning` `Dashboard` `Runbooks`
 
 </td>
 </tr>
@@ -295,86 +308,68 @@
 <!-- ============================================================ -->
 
 <details>
-<summary><b>🎮 Unity Developer — Mobile Premier League (MPL) &nbsp;|&nbsp; Aug 2022 – Aug 2023 &nbsp;|&nbsp; India</b></summary>
+<summary><b>🔐 Security Engineer — Cisco &nbsp;|&nbsp; Aug 2024 – Present &nbsp;|&nbsp; Columbus, OH</b></summary>
 
 <br/>
 
-> **Scale:** 50+ online multiplayer games · Millions of concurrent players
+> **Scope:** Cloud · Network · Endpoint Security Engineering across Cisco security stack
 
-```
-ROLE SNAPSHOT
-─────────────────────────────────────────────────────────────────
-Company   : Mobile Premier League (MPL) — Top-tier RMG / Gaming platform
-Domain    : Core SDK, Real-Money Games, CI/CD Infrastructure
-Team Size : Cross-functional central engineering team
-Stack     : C#, Unity, Jenkins, WebSockets, Asset Bundles
-```
+| | |
+|:--|:--|
+| `Company` | `Cisco Systems` |
+| `Domain` | `Security Engineering, SIEM, EDR, Cloud Security` |
+| `Stack` | `Splunk, CrowdStrike, AWS GuardDuty, Cisco Security Stack` |
 
 **Key Contributions:**
 
-- 🔧 **SDK Engineering** — Contributed to the core SDK powering 50+ multiplayer games, ensuring high stability under millions of concurrent connections. Directly relevant to understanding distributed system architecture from a defender's perspective.
+- 🏗️ **Security Controls Engineering** — Engineered and deployed security controls across cloud, network, and endpoint environments using Splunk, CrowdStrike, AWS GuardDuty, and Cisco security stack.
 
-- 🔄 **Platform Migration** — Led migration of Real-Money Game (RMG) titles to free-to-play models, managing the full SDK lifecycle from R&D through production — reinforcing SSDLC awareness.
+- 📊 **SIEM Optimization** — Built and optimized dashboards, correlation searches, and automated playbooks to enhance real-time threat detection; onboarded new log sources (AWS, EDR, firewalls), improving detection accuracy by **30%**.
 
-- ⚙️ **CI/CD & Automation** — Strengthened CI/CD pipelines using **Unity Editor Utility** and **Jenkins**, building automation pipelines for asset bundle releases. This mirrors DevSecOps pipeline hardening.
+- 🤖 **SOAR Integration** — Integrated SIEM, EDR, and SOAR workflows to automate incident triage, reducing manual workload by **40%**.
 
-- 🌐 **Network Protocol Design** — Collaborated with engineering to define and implement **network communication standards** for multiplayer features — directly applicable to protocol-level security analysis.
+- 🔍 **Vulnerability Management** — Conducted assessments using Nessus/Qualys; partnered with engineering teams to remediate critical findings.
 
-- 🚀 **Prototype-to-Production** — Supported rapid delivery cycles with cross-functional teams, developing an appreciation for secure, scalable system design.
+- 🧩 **Incident Investigation** — Led investigations across malware, phishing, lateral movement, and privilege misuse scenarios; improved detection logic through root-cause analysis.
 
-**Security Lens Applied:**
-> Working at this scale exposed common attack surfaces in real-time multiplayer systems — packet manipulation, session hijacking vectors, and API abuse patterns — all of which now inform my threat modeling approach.
+- 📋 **Compliance** — Ensured alignment with ISO 27001 and NIST CSF via policy controls, audit evidence collection, and continuous monitoring.
+
+- 🐍 **Security Automation** — Automated tasks using Python and PowerShell for log parsing, IOC enrichment, and alert validation.
 
 </details>
 
 ---
 
 <details>
-<summary><b>🕹️ Unity Developer — Juego Studio Pvt. Ltd. &nbsp;|&nbsp; Oct 2020 – Aug 2022 &nbsp;|&nbsp; India</b></summary>
+<summary><b>🛡️ Associate SOC Analyst I — Mobile Premier League (MPL) &nbsp;|&nbsp; May 2017 – Aug 2023 &nbsp;|&nbsp; India</b></summary>
 
 <br/>
 
-> **Scale:** Distributed real-time multiplayer servers · Multiple game genres · Mobile-first
+> **Scope:** Enterprise SOC Operations · Threat Detection · Incident Response at scale
 
-```
-ROLE SNAPSHOT
-─────────────────────────────────────────────────────────────────
-Company   : Juego Studio Pvt. Ltd. — Game development studio
-Domain    : Multiplayer Networking, Server Architecture, Code Quality
-Stack     : C#, Unity, Node.js, Socket.io, WebSocket, TCP
-```
+| | |
+|:--|:--|
+| `Company` | `Mobile Premier League (MPL) — Top-tier gaming & fintech platform` |
+| `Domain` | `SOC Operations, SIEM, EDR, Threat Hunting, Compliance` |
+| `Stack` | `QRadar, Splunk, UEBA, Vulnerability Scanners, TI Feeds` |
 
 **Key Contributions:**
 
-- 🔌 **Custom Protocol Engineering** — Engineered **WebSocket and TCP communication protocols** from scratch to minimize packet overhead for mobile users on variable bandwidth. This work exposed deep knowledge of Layer 4–7 networking, essential for network security analysis.
+- 📡 **Security Monitoring** — Monitored and analyzed security events across SIEM (QRadar/Splunk) and EDR platforms, improving detection coverage by **40%**.
 
-- 🔍 **Code Audits & Defect Remediation** — Proactively performed code audits, identified software defects, and remediated vulnerabilities to maintain codebase integrity — a direct precursor to secure code review and SAST practices.
+- 🚨 **Incident Response** — Investigated malware, phishing, account compromise, and insider threat incidents; performed root-cause analysis and coordinated remediation.
 
-- 🏗️ **Distributed Server Architecture** — Designed and deployed **distributed real-time multiplayer servers** using Node.js and Socket.io across multiple game genres. Understanding distributed systems architecture is foundational for cloud security and threat modeling.
+- 🧠 **Behavioral Analytics** — Used UEBA analytics to surface abnormal user behavior and insider-threat indicators, enabling early risk detection.
 
-- 🛡️ **Security by Design** — Analyzed network reliability and resilience under variable conditions, building intuition for availability threats and denial-of-service scenarios.
+- 📖 **SOC Process Development** — Developed playbooks, runbooks, and SOPs, increasing incident handling efficiency by **20%**.
 
-**Security Lens Applied:**
-> Reverse-engineering packet protocols and auditing real-time communication code gave me a hacker's intuition for how these systems break — skills directly applicable to penetration testing and network security monitoring.
+- 🎯 **Alert Tuning** — Tuned correlation rules and log sources to reduce false positives by **25%**; built real-time dashboards reducing potential breach exposure by **30%**.
 
-</details>
+- 🔬 **Threat Hunting** — Conducted proactive hunting using TI feeds, IOC enrichment, and anomaly detection techniques.
 
----
+- ✅ **Vulnerability Remediation** — Conducted scanning and remediation tracking, mitigating **100+ high-risk vulnerabilities**.
 
-<details>
-<summary><b>📱 Game & Android Developer — Enaayah Software &nbsp;|&nbsp; May 2017 – May 2020 &nbsp;|&nbsp; India</b></summary>
-
-<br/>
-
-> **Domain:** Mobile applications · Game development · Secure API integration
-
-**Key Contributions:**
-
-- 🔐 **Encryption & Secure APIs** — Developed mobile and game apps using **encryption**, **secure API integration**, and OOP principles — hands-on cryptography applied in production environments.
-
-- 🏗️ **Scalable Architecture** — Delivered scalable, maintainable codebases using OOP design patterns, building strong software engineering fundamentals that underpin secure development practices.
-
-- 📱 **Full-Cycle Mobile Development** — Owned development lifecycle for Android applications, from design through deployment, including data handling and storage security considerations.
+- ⚡ **Uptime** — Ensured 99% uptime for monitored systems by coordinating with IT, DevOps, and cloud teams.
 
 </details>
 
