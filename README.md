@@ -107,7 +107,6 @@
 <!-- Social & Status Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faheemkhan09-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemkhan09)
 [![Email](https://img.shields.io/badge/Email-mofaheemk9%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofaheemk9@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(614)_881--8303-00ff88?style=for-the-badge&logo=phone&logoColor=black)](#)
 [![Location](https://img.shields.io/badge/Location-Columbus%2C_OH-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
