@@ -107,7 +107,7 @@
 <!-- Social & Status Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faheemkhan09-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemkhan09)
 [![Email](https://img.shields.io/badge/Email-mofaheemk9%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofaheemk9@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Columbus%2C_OH-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Houston%2C_TX-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -145,7 +145,7 @@
 |:--|:--|
 | `"name"` | `"Faheem Khan Mohammed"` |
 | `"role"` | `"Senior Security Analyst, Data Loss Prevention (DLP)"` |
-| `"location"` | `"Columbus, OH  \|  Open to Relocate"` |
+| `"location"` | `"Houston, TX  \|  Open to Relocate"` |
 | `"education"` | `"M.S. Cybersecurity, Franklin University (Dec 2025)"` |
 | `"experience"` | `"9+ years across DLP, SOC Operations, Threat Detection & Security Engineering"` |
 | `"current"` | `"Senior Security Analyst, DLP @ Memorial Hermann Health System (Jun 2026 to Present)"` |
@@ -457,7 +457,7 @@
 ---
 
 <details>
-<summary><b>🔐 Security Engineer &nbsp;|&nbsp; Cisco &nbsp;|&nbsp; Aug 2024 to May 2026 &nbsp;|&nbsp; Columbus, OH</b></summary>
+<summary><b>🔐 Security Engineer &nbsp;|&nbsp; Cisco &nbsp;|&nbsp; Aug 2024 to May 2026 &nbsp;|&nbsp; Remote</b></summary>
 
 <br/>
 
